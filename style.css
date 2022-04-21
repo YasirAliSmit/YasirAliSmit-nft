@@ -1,0 +1,103 @@
+.row>li{
+    list-style: none;
+    margin-top: 20px;
+    
+    
+
+    
+    
+}
+.btn{
+    border-radius: 50px;
+    width: 200px;
+    height: 50px;
+    font-family: 'Carter One'
+}
+.cover_container{
+    background-image: url(image/bg1-min.75f1c1c682538a92dff3.png);
+    height: auto;
+    
+}
+.para{
+    color: aliceblue;
+    letter-spacing: 1.28px;
+    opacity: 1;
+    text-align: center;
+}
+.border{
+    border-radius: 50px;
+    width: 50px;
+    background-color: aliceblue;
+    height: 200px;
+    text-align: center;
+    
+}
+.parent{
+    text-align: center;
+}
+.danger1
+{
+    margin-top: 200px;
+}
+.Container1{
+    margin-top: 20px;
+    font-family:'Carter One' ;
+    background-color:#2f559d;
+    color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around
+    
+    
+}
+.blue{
+    color: lightskyblue;
+}
+.Container2{
+    width: 100%;
+    background-color:#2f559d;  
+    color: white;
+    font-family:'Carter One' ;
+    
+    
+    margin-right: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+    justify-content: space-between;
+    
+}
+.size{
+    font-size: 90px;
+    color: skyblue;
+}
+.nav{
+    color: white;
+    font-family:'Carter One' ;
+}
+.Container3{
+    background-image: url(image/bg4-min.911dd025fca8ee29b6d6.png);
+    
+}
+.one{
+    color: gold;
+    text-align: center;
+    font-family:'Carter One' ;
+    font-size: 100px;
+}
+.container-fluid{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:#2f559d;  
+   color: aliceblue;
+
+   
+
+}
+
+
